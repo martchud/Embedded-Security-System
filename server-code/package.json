@@ -1,0 +1,15 @@
+{
+	"name": "433-project-server",
+	"version": "0.0.1",
+	"description": "433 project",
+	"main": "server.js",
+	"dependencies": {
+		"mime": "~1.2.7",
+		"socket.io": "^4.6.1"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Joshua Murphy",
+	"license": "ISC"
+}

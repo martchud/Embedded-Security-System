@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "twilio": "^4.9.0"
+  }
+}

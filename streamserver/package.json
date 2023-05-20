@@ -1,0 +1,21 @@
+{
+  "name": "streamserver",
+  "version": "1.0.0",
+  "description": "Node server to display stream capture",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jimp": "^0.22.7",
+    "jsqr": "^1.4.0",
+    "qrcode": "^1.5.1",
+    "qrcode-reader": "^1.0.4",
+    "socket.io": "^4.4.1",
+    "twilio": "^3.84.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "devDependencies": {}
+}

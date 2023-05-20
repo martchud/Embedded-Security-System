@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "helpers.h": "c",
+        "led_status.h": "c",
+        "stdbool.h": "c",
+        "stopwatch.h": "c",
+        "14segcountdown.h": "c",
+        "stdlib.h": "c",
+        "terminal.h": "c",
+        "audiooutput.h": "c",
+        "stdio.h": "c",
+        "motion.h": "c",
+        "volknob.h": "c",
+        "string.h": "c",
+        "alarm_interface.h": "c"
+    }
+}
